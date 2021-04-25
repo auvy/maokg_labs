@@ -1,3 +1,7 @@
+# lab5 result
+
+![Alt Text](https://github.com/auvy/maokg_labs/blob/main/lab5/doc/lab5.gif)
+
 # lab4 result
 
 ![Alt Text](https://github.com/auvy/maokg_labs/blob/main/lab4/doc/lab4.gif)
